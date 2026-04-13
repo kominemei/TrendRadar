@@ -55,28 +55,12 @@ schedule:
 platforms:
   enabled: true                         # 是否启用热榜平台抓取
   sources:
-    - id: "toutiao"
-      name: "今日头条"
-    - id: "baidu"
-      name: "百度热搜"
-    - id: "xiaohongshu"
       name: "小红书"
     - id: "youtube"
       name: "youtube"
-    - id: "bilibili-hot-search"
-      name: "bilibili 热搜"
-    - id: "instagram"
-      name: "instagram"
-    - id: "pinterest"
-      name: "pinterest"
-    - id: "douban"
-      name: "豆瓣"
-    - id: "weibo"
-      name: "微博"
     - id: "douyin"
       name: "抖音"
-    - id: "zhihu"
-      name: "知乎"
+   
 
 
 
